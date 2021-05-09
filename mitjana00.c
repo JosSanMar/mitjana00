@@ -25,4 +25,5 @@ int main() {
 	printf("La mitjana resultant és: %.2f\n",mitjana);	
 	return 0;
 	printf("La mitjana ha estat trobada amb exit\n");
+	printf("Operació finalitzada amb exit\n");
 }
